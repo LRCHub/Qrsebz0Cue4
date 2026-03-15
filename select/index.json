@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イタリアンサーファー",
+  "base_artist": "VERRY SMoL",
+  "createdAt": "2026-03-15T10:59:05.809564Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イタリアンサーファー",
+      "artist": "VERRY SMoL",
+      "has_synced": false,
+      "path": "select/pl_01_イタリアンサーファー_VERRY_SMoL.txt"
+    }
+  ]
+}
